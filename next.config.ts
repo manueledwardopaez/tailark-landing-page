@@ -1,16 +1,15 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
-/*   images: {
+
+ images: {
     remotePatterns: [
       {
-        hostname: "res.cloudinary.com",
+        hostname: "ik.imagekit.io",
         protocol: "https",
-        pathname: "/**",
       },
     ],  
-  } */
+  } 
 };
 
 export default nextConfig;

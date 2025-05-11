@@ -47,8 +47,8 @@ export default function HeroSection() {
                                 alt="Abstract Object"
                                 height="4000"
                                 width="3000"
-                                unoptimized
-                                priority
+                                //unoptimized
+                                //priority
                             />
                         </div>
                     </div>
